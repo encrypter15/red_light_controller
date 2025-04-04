@@ -4,7 +4,7 @@
 **License**: MIT  
 
 ## Description
-A SCADA tool to pulse lights via Modbus, simulating NSFW ambiance control. Tests vulnerabilities in lighting control systems.
+A SCADA tool to pulse lights via Modbus, simulating ambiance control. Tests vulnerabilities in lighting control systems.
 
 ## Features
 - Connects to Modbus TCP devices
